@@ -92,7 +92,7 @@ O tamanho da marmita é ajustado, afetando o preço final. <br>
 O usuário informa o endereço e o bot calcula o preço final com base no tamanho escolhido.
 
 ---
-<h2> **Contribuições**</h2>
+<h2> Contribuições</h2>
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 
